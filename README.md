@@ -1,5 +1,5 @@
 # KinectFusionV2
-UnaNancyOwenさんがKinect v2のサンプルを公開していらっしゃいます
+UnaNancyOwenさんがKinect v2のサンプルプログラムを公開していらっしゃいます
 - （参照コード）https://github.com/UnaNancyOwen/Kinect2Sample
 
 # KinectFusionを引用、一部改変しました。
